@@ -35,5 +35,10 @@
   "bugs": {
     "url": "https://github.com/GoodPie/create-minimal-pwa/issues",
     "email": "brandynbb96@gmail.com"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest"
   }
 }
