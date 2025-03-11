@@ -1,6 +1,6 @@
 {
   "name": "create-minimal-pwa",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI tool to generate minimal PWA requirements",
   "main": "src/cli.js",
   "bin": {
@@ -18,7 +18,7 @@
     "app",
     "manifest"
   ],
-  "author": "",
+  "author": "Brandyn Britton",
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.11.2",
@@ -30,5 +30,10 @@
   "files": [
     "bin/",
     "src/"
-  ]
+  ],
+  "homepage": "https://github.com/GoodPie/create-minimal-pwa",
+  "bugs": {
+    "url": "https://github.com/GoodPie/create-minimal-pwa/issues",
+    "email": "brandynbb96@gmail.com"
+  }
 }

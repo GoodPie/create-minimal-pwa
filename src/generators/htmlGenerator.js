@@ -28,6 +28,7 @@ function generateHtml(name, platformSpecificMeta = '') {
 <body>
   <h1>${name}</h1>
   <p>Welcome to your Progressive Web App!</p>
+  <p>To verify this is working, please check the console for the message "Service Worker Registered!"</p>
 
   <script>
     // Register the service worker
