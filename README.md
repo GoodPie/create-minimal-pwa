@@ -1,4 +1,8 @@
-# create-minimal-pwa
+# Create Minimal PWA
+
+![GitHub](https://img.shields.io/github/license/robertcoopercode/create-minimal-pwa)
+![npm](https://img.shields.io/npm/v/create-minimal-pwa)
+![npm](https://img.shields.io/npm/dt/create-minimal-pwa)
 
 A simple CLI tool to generate the minimal required files for a Progressive Web App (PWA).
 
@@ -14,6 +18,29 @@ A simple CLI tool to generate the minimal required files for a Progressive Web A
 - Zero configuration - just run and answer prompts
 
 ## Installation & Usage
+
+## Running the tool
+
+To run the tool, use npx:
+
+```bash
+npx create-minimal-pwa
+```
+## Installation
+
+To install the tool globally:
+
+```bash
+npm install -g create-minimal-pwa
+```
+
+Then run the tool:
+
+```bash
+create-minimal-pwa
+```
+
+```bash
 
 ## How It Works
 
