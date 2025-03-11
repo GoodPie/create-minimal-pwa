@@ -1,0 +1,34 @@
+{
+  "name": "create-minimal-pwa",
+  "version": "1.0.0",
+  "description": "CLI tool to generate minimal PWA requirements",
+  "main": "src/cli.js",
+  "bin": {
+    "create-minimal-pwa": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pwa",
+    "generator",
+    "web",
+    "progressive",
+    "app",
+    "manifest"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "inquirer": "^8.2.4"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ]
+}
