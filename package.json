@@ -1,6 +1,6 @@
 {
   "name": "create-minimal-pwa",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI tool to generate minimal PWA requirements",
   "main": "src/cli.js",
   "bin": {
@@ -19,7 +19,7 @@
     "manifest"
   ],
   "author": "Brandyn Britton",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "canvas": "^2.11.2",
     "inquirer": "^8.2.4"
