@@ -40,8 +40,6 @@ Then run the tool:
 create-minimal-pwa
 ```
 
-```bash
-
 ## How It Works
 
 When you run the tool, you'll be prompted for:
