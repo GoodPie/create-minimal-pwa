@@ -1,6 +1,6 @@
 # Create Minimal PWA
 
-![GitHub](https://img.shields.io/github/license/robertcoopercode/create-minimal-pwa)
+![GitHub](https://img.shields.io/github/license/goodpie/create-minimal-pwa)
 ![npm](https://img.shields.io/npm/v/create-minimal-pwa)
 ![npm](https://img.shields.io/npm/dt/create-minimal-pwa)
 
